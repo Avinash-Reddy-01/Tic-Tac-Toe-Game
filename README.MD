@@ -24,7 +24,7 @@ Tic Tac Toe/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Avinash-Reddy-01/tic-tac-toe.git
+   git clone https://github.com/Avinash-Reddy-01/Tic-Tac-Toe-Game.git
    ```
 2. Navigate to the project directory:
 
